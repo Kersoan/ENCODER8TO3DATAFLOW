@@ -1,4 +1,4 @@
-### EX-05-ENCODER 8TO3 DATAFLOW Modelling
+# EX-05-ENCODER 8TO3 DATAFLOW Modelling
 
 **AIM:**
 
